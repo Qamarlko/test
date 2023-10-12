@@ -1,0 +1,21 @@
+Once you have created your repository, you can clone it to your local machine using the following command:
+
+
+git clone https://github.com/<username>/<repository-name>.git
+----------------------------------------------------------------------------
+
+Initialize a Local Git Repository:
+
+
+git init
+git add .
+git commit -m "Initial commit"
+----------------------------------------------------------------------------
+Use the provided URL to add a remote named "origin" to your local Git repository. Replace <your-github-repo-url> with your GitHub repository's URL:
+
+git remote add origin <your-github-repo-url>
+after
+
+git push -u origin master
+
+----------------------------------------------------------------------------
