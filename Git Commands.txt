@@ -19,3 +19,18 @@ after
 git push -u origin master
 
 ----------------------------------------------------------------------------
+chart/Grid View
+Get Set
+create custom user controls or user controls 
+method
+overloadind
+methed overloading
+string interpulation 
+inerhatince
+constructer
+abstract class 
+making own events 
+whole information in tool tip
+sending table data in excel notepad pdf or html table 
+SQL injection 
+Stored Procedure 
